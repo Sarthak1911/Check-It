@@ -1,0 +1,29 @@
+<resources>
+
+    <string name="app_name">Check-It!</string>
+    <string name="title_activity_main">To-Do\'s</string>
+    <string name="placeholder">A Task</string>
+    <string name="delete_todo">Will delete a task</string>
+    <string name="title_activity_add_task">A New Task</string>
+    <string name="add_task">Add a task here &#8230;</string>
+    <string name="add_task_btn">+</string>
+    <string name="empty_edit">Enter a task to continue!</string>
+    <string name="duplicate_edit">Task already present!</string>
+    <string name="error">Something went wrong, try to restart the application</string>
+    <string name="no_tasks">No tasks as of now!</string>
+    <string name="completed">Completed Tasks</string>
+    <string name="incomplete">Incomplete Tasks</string>
+    <string name="created_at">Created At</string>
+    <string name="completed_tasks">Checked tasks till date\t:\t</string>
+    <string name="incomplete_tasks">Unchecked tasks till date\t:\t</string>
+
+    <string-array name="replies">
+        <item>Way to go!</item>
+        <item>Done Already!</item>
+        <item>On fire!!</item>
+        <item>Always Forward!</item>
+        <item>Had it comin &#8230;</item>
+    </string-array>
+    <string name="title_activity_completed">Checked Tasks</string>
+    <string name="title_activity_incomplete">Unchecked Tasks</string>
+</resources>

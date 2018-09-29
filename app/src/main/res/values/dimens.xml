@@ -1,0 +1,11 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="add_task_padding">20dp</dimen>
+    <dimen name="add_task_font_size">20sp</dimen>
+    <dimen name="task_font">16sp</dimen>
+    <dimen name="task_font_vsmall">10sp</dimen>
+    <dimen name="no_tasks">28sp</dimen>
+</resources>
